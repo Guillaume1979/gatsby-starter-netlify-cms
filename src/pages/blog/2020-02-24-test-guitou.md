@@ -4,7 +4,7 @@ title: TEST GUITOU
 date: 2020-02-24T15:23:02.524Z
 description: Ceci est un test
 featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredimage: /img/jumbotron.jpg
 tags:
   - Post
 ---
